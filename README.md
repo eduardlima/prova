@@ -12,7 +12,6 @@ git clone (https://github.com/eduardlima/prova.git)
 Navegue até o diretório do projeto:
 
 
-Copy code
 cd filmes
 Instale as dependências:
 
