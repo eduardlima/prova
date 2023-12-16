@@ -6,12 +6,12 @@ Instalação
 Clone o repositório:
 
 
-bash
+
 Copy code
 git clone (https://github.com/eduardlima/prova.git)
 Navegue até o diretório do projeto:
 
-bash
+
 Copy code
 cd filmes
 Instale as dependências:
@@ -21,7 +21,6 @@ npm i
 Executando o Projeto
 Execute o projeto localmente:
 
-bash
 
 npm start
 Use o Expo Go no seu dispositivo móvel para escanear o código QR exibido no terminal ou na página da web do Expo para abrir o aplicativo.
