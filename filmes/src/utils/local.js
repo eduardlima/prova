@@ -7,7 +7,7 @@ export const getMovies = async () => {
     const moviesData = await AsyncStorage.getItem(MOVIES_KEY);
     return moviesData ? JSON.parse(moviesData) : [];
   } catch (error) {
-    console.error('Error fetching movies:', error);
+    console.error('Erro ao buscar filmes:', error);
     return [];
   }
 };
