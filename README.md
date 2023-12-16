@@ -15,7 +15,7 @@ Navegue até o diretório do projeto:
 cd filmes
 Instale as dependências:
 
-bash
+
 npm i
 Executando o Projeto
 Execute o projeto localmente:
