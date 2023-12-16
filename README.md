@@ -17,13 +17,12 @@ cd filmes
 Instale as dependências:
 
 bash
-Copy code
-npm install
+npm i
 Executando o Projeto
 Execute o projeto localmente:
 
 bash
-Copy code
+
 npm start
 Use o Expo Go no seu dispositivo móvel para escanear o código QR exibido no terminal ou na página da web do Expo para abrir o aplicativo.
 
